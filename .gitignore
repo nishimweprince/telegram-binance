@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# Node modules
+node_modules
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Docker
+Dockerfile
+docker-compose.yml
